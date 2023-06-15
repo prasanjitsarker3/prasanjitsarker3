@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**prasanjitsarker3/prasanjitsarker3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Prasanjit Sarker</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
