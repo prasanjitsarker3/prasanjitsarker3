@@ -1,4 +1,6 @@
- <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1686864946~exp=1686865546~hmac=5c8c587fb209f0d46ce80f3320aefecf63484c41f9b7db0b0636cedbad7e8012" align="center" />
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?size=626&ext=jpg&ga=GA1.2.2060036261.1681297115&semt=sph" alt="Image" width="100%" style="max-height: 100px;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Prasanjit Sarker</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
