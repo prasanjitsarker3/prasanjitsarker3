@@ -1,3 +1,4 @@
+ <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1686864946~exp=1686865546~hmac=5c8c587fb209f0d46ce80f3320aefecf63484c41f9b7db0b0636cedbad7e8012" className="  w-full h-[450px]" />
 
 <h1 align="center">Hi 👋, I'm Prasanjit Sarker</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
