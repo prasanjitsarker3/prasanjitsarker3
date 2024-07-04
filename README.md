@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#JavaScript">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Go
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
