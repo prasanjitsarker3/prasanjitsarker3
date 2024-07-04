@@ -41,7 +41,7 @@
 > Tools, languages, and other things that I like to work with.
 
 <table>
-  <tr align="center>
+  <tr>
     <td align="center" width="96">
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
@@ -70,11 +70,7 @@
   </tr>
 </table>
 <table>
-  <tr align="center>
-    <td align="center"  width="96">
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="Debian" />
-      <br>Node.js
-    </td>
+  <tr >
     <td align="center" width="96">
         <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" width="48" height="48" alt="Grafana" />
       <br>Express
