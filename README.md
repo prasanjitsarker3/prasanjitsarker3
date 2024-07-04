@@ -100,4 +100,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjitsarker3&" alt="prasanjitsarker3" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prantasarker379&theme=vue-dark)](https://git.io/streak-stats)
+
 
