@@ -62,12 +62,15 @@
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="48" height="48" alt="Kubernetes" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+    <td align="center"  width="96">
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="Debian" />
+      <br>Node.js
     </td>
+    
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center"  width="96">
         <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="Debian" />
       <br>Node.js
