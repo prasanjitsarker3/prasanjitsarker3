@@ -51,22 +51,16 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" width="48" height="48" alt="Jsonnet" />
+      <br>React.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+        <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" width="48" height="48" alt="TypeScript" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" width="48" height="48" alt="Kubernetes" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
@@ -75,16 +69,28 @@
       <br>Docker
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="Debian" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+        <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" width="48" height="48" alt="Grafana" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=48&id=YKKmRFS8Utmm&format=png" width="48" height="48" alt="Grafana" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-64.png" width="48" height="48" alt="Grafana" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mongodb-5363123-4488912.png?f=webp&w=256" width="48" height="48" alt="Grafana" />
+      <br>Mongodb 
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png" width="48" height="48" alt="Grafana" />
+      <br>GraphQL 
     </td>
   </tr>
 </table>
