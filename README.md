@@ -3,26 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasanjit Sarker</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanjitsarker3&label=Profile%20views&color=0e75b6&style=flat" alt="prasanjitsarker3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prasanjitsarker3&label=Profile%20views&color=0e75b6&style=flat" alt="prasanjitsarker3" /> <a href="https://twitter.com/prasanjit_sarkr" target="blank"><img src="https://img.shields.io/twitter/follow/prasanjit_sarkr?logo=twitter&style=for-the-badge" alt="prasanjit_sarkr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prasanjit_sarkr" target="blank"><img src="https://img.shields.io/twitter/follow/prasanjit_sarkr?logo=twitter&style=for-the-badge" alt="prasanjit_sarkr" /></a> </p>
 
-- 🔭 I’m currently working on [Health Care](Running)
-
-- 🌱 I’m currently learning **React Native,MySQL**
-
-- 👨‍💻 All of my projects are available at [https://bikemanagement.netlify.app/login](https://bikemanagement.netlify.app/login)
-
-- 📝 I regularly write articles on [https://devps12.netlify.app](https://devps12.netlify.app)
-
-- 💬 Ask me about **JavaScript,Node Js,Express Js,Mongoose,PostgreSQL,Prisma,Docker,React Js,Redux,Next Js**
-
+- 🔭  I’m currently working on something cool 😉
+- 🌱 I’m currently learning Docker and AWS
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **sarkerprasanjit379@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ScJqlBcCSNk-furndTeU5QB5ZVcRy74-/view](https://drive.google.com/file/d/1ScJqlBcCSNk-furndTeU5QB5ZVcRy74-/view)
-
 - ⚡ Fun fact **Coffe,Code,Sleep**
 
 <h3 align="center">Connect with me</h3>
@@ -66,6 +54,18 @@
         <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="48" height="48" alt="Debian" />
       <br>Node.js
     </td>
+    <td align="center"  width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" width="48" height="48" alt="Debian" />
+      <br>Mongoose 
+    </td>
+    <td align="center"  width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="48" height="48" alt="Debian" />
+      <br>MySQL 
+    </td>
+    <td align="center" width="96">
+        <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-64.png" width="48" height="48" alt="Grafana" />
+      <br>Redux
+    </td>
     
   </tr>
 </table>
@@ -91,13 +91,32 @@
         <img src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png" width="48" height="48" alt="Grafana" />
       <br>GraphQL 
     </td>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" width="48" height="48" alt="Grafana" />
+      <br>Material-UI 
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="48" height="48" alt="Grafana" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="48" height="48" alt="Grafana" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="48" height="48" alt="Grafana" />
+      <br>Postman
+    </td>
   </tr>
 </table>
+<h2 align="center">⚡ Stats ⚡</h2>
+<a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="prasanjitsarker3's github stats" /></a> | <a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&layout=compact&theme=buefy&hide_border=true" /></a>
+</tr>
+</br>
+<p  width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjitsarker3&" alt="prasanjitsarker3" width="100%" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanjitsarker3&show_icons=true&locale=en&layout=compact" alt="prasanjitsarker3" /></p>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjitsarker3&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&locale=en" alt="prasanjitsarker3" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjitsarker3&" alt="prasanjitsarker3" /></p>
 
 
 
