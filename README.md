@@ -43,16 +43,12 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#JavaScript">
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="48" height="48" alt="JavaScript" />
-      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
