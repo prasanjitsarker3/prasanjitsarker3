@@ -97,7 +97,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanjitsarker3&show_icons=true&locale=en&layout=compact" alt="prasanjitsarker3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&locale=en" alt="prasanjitsarker3" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prantasarker379&theme=vue-dark" alt="GitHub Streak" /></a>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prantasarker379&theme=vue-dark" alt="GitHub Streak" /></a>
 
 
 
