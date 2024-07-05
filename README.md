@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Image" width="100%" height="300px" style="max-height: 100px;">
+  <img src="https://i.ibb.co/PFMCjGJ/github.png" alt="Image" width="100%" height="300px" style="max-height: 100px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasanjit Sarker</h1>
@@ -101,7 +101,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="48" height="48" alt="Grafana" />
-      <br>Tailwind
+      <br>Firebase
     </td>
     <td align="center" width="96">
         <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="48" height="48" alt="Grafana" />
