@@ -111,7 +111,6 @@
 </table>
 <h2 align="center">⚡ Stats ⚡</h2>
 <a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="prasanjitsarker3's github stats" /></a> | <a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&layout=compact&theme=buefy&hide_border=true" /></a>
-</tr>
 </br>
 <p  width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjitsarker3&" alt="prasanjitsarker3" width="100%" /></p>
 
