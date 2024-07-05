@@ -110,11 +110,22 @@
   </tr>
 </table>
 <h2 align="center">⚡ Stats ⚡</h2>
-<a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="prasanjitsarker3's github stats" /></a> | <a href="https://github.com/prasanjitsarker3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&layout=compact&theme=buefy&hide_border=true" /></a>
-</br>
-<p  width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjitsarker3&" alt="prasanjitsarker3" width="100%" /></p>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjitsarker3&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
+     <a href="https://github.com/prasanjitsarker3/github-readme-stats" title="Go to Source">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&border_color=61dafb&hide_border=false" />
+ </a>
+<a href="https://github.com/prasanjitsarker3/github-readme-stats">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
+ </a>
+
+
+
+ <a href="https://github.com/prasanjitsarker3/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width="100%" src="https://streak-stats.demolab.com/?user=prasanjitsarker3&border=61dafb&hide_border=false" alt="zumrudu-anka" />
+    </a>
+
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjitsarker3&theme=vue&hide_border=false" width="100%"/>
 
 
 
