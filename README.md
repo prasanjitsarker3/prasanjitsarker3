@@ -111,21 +111,28 @@
 </table>
 <h2 align="center">⚡ Stats ⚡</h2>
 
-     <a href="https://github.com/prasanjitsarker3/github-readme-stats" title="Go to Source">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&border_color=61dafb&hide_border=false" />
- </a>
-<a href="https://github.com/prasanjitsarker3/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&icon_color=61dafb&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
- </a>
-
-
-
- <a href="https://github.com/prasanjitsarker3/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="100%" src="https://streak-stats.demolab.com/?user=prasanjitsarker3&border=61dafb&hide_border=false" alt="zumrudu-anka" />
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/prasanjitsarker3/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="https://streak-stats.demolab.com/?user=prasanjitsarker3&border=61dafb&hide_border=false" alt="prasanjitsarker3" />
     </a>
+    <a href="https://github.com/prasanjitsarker3/github-readme-stats" title="Go to Source">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=prasanjitsarker3&show_icons=true&border_color=61dafb&hide_border=false" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/prasanjitsarker3/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjitsarker3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&icon_color=61dafb&&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjitsarker3&theme=vue&&hide_border=false" width="100%"/>
+</p>
 
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjitsarker3&theme=vue&hide_border=false" width="100%"/>
+
 
 
 
